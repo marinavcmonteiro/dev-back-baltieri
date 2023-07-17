@@ -1,0 +1,15 @@
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/bin/Debug/net7.0/StopWatch
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/bin/Debug/net7.0/StopWatch.deps.json
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/bin/Debug/net7.0/StopWatch.runtimeconfig.json
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/bin/Debug/net7.0/StopWatch.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/bin/Debug/net7.0/StopWatch.pdb
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.csproj.AssemblyReference.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.AssemblyInfoInputs.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.AssemblyInfo.cs
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.csproj.CoreCompileInputs.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/refint/StopWatch.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.pdb
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/StopWatch.genruntimeconfig.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/StopWatch/obj/Debug/net7.0/ref/StopWatch.dll
