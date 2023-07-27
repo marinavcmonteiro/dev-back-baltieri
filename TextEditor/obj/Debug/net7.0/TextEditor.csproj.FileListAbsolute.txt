@@ -1,0 +1,15 @@
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/bin/Debug/net7.0/TextEditor
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
