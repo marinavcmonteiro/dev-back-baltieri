@@ -1,0 +1,15 @@
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/bin/Debug/net7.0/EditorHTML
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/bin/Debug/net7.0/EditorHTML.deps.json
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/bin/Debug/net7.0/EditorHTML.runtimeconfig.json
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/bin/Debug/net7.0/EditorHTML.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/bin/Debug/net7.0/EditorHTML.pdb
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.csproj.AssemblyReference.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.AssemblyInfoInputs.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.AssemblyInfo.cs
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.csproj.CoreCompileInputs.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/refint/EditorHTML.dll
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.pdb
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/EditorHTML.genruntimeconfig.cache
+/Users/marinamonteiro/back-projetos/dev-back-baltieri/EditorHTML/obj/Debug/net7.0/ref/EditorHTML.dll
